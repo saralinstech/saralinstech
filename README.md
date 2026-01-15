@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Sara Lins
 
-Sou **Desenvolvedora Full Stack** com forte atuação em **Front-End**, experiência sólida em **Back-End** e participação ativa em todo o ciclo de desenvolvimento de produtos digitais — da concepção à entrega.
+Sou **Desenvolvedora Full Stack** com forte atuação em **Front-End**, experiência sólida em **Back-End** e participação ativa em todo o ciclo de desenvolvimento de produtos digitais, da concepção à entrega.
 
 Atuo no desenvolvimento de **sistemas corporativos, plataformas educacionais e soluções com Inteligência Artificial**, sempre com foco em **qualidade de código, automação de processos, performance e melhoria contínua**.
 
@@ -89,7 +89,7 @@ Sistema financeiro para gestão de cotas e empréstimos em contexto familiar.
 ### 📫 Vamos conversar?
 
 - ✉️ Email: **saralinstech@gmail.com**
-- 💼 LinkedIn: *(adicione aqui se quiser)*
+- 💼 LinkedIn: https://www.linkedin.com/in/sara-lins/
 - 🌎 Brasil
 
 Sempre aberta a novos desafios, aprendizado contínuo e projetos que gerem impacto real 🚀
