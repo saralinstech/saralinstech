@@ -16,8 +16,8 @@ Atuo no desenvolvimento de **sistemas corporativos, plataformas educacionais e s
 **Back-End**
 - Node.js | NestJS
 - Elixir | Phoenix | Ecto
-- .NET
-- Python
+- C# | .NET
+- Python | Django | FastApi
 
 **Banco de Dados**
 - PostgreSQL
@@ -30,6 +30,7 @@ Atuo no desenvolvimento de **sistemas corporativos, plataformas educacionais e s
 - N8N
 - LangChain
 - API Oficial do WhatsApp (Business Manager)
+- Figma
 - Metodologias Ágeis
 
 ---
